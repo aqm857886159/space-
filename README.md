@@ -10,6 +10,7 @@ SpaceX Form S-1 Prospectus 的非官方中文翻译与英文原版 PDF。适合�
 
 | 文件 | 适合谁 | 大小 |
 | --- | --- | --- |
+| [精简导读：spacex-s1-essential-lessons-zh.md](spacex-s1-essential-lessons-zh.md) | 想快速理解 SpaceX 值得学什么的普通读者、创业者、产品人 | - |
 | [中文版 PDF：spacex-form-s1-prospectus-2026-zh-cn.pdf](spacex-form-s1-prospectus-2026-zh-cn.pdf) | 中文读者、研究者、媒体、投资学习者 | 18 MB |
 | [英文原版 PDF：spacex-form-s1-prospectus-2026-sec-original.pdf](spacex-form-s1-prospectus-2026-sec-original.pdf) | 需要核对原文、引用原始披露的人 | 60 MB |
 | [SEC 官方 HTML 原文](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm) | 法律、投资、审计等正式场景 | - |
@@ -83,4 +84,3 @@ SpaceX S-1、SpaceX 招股书、SpaceX IPO、SpaceX 中文版、SpaceX prospectu
 - 本仓库与 SpaceX、Starlink、Elon Musk 或 SEC 没有任何官方关系。
 - 招股书原文版权归 Space Exploration Technologies Corp. 所有，SEC 公开备案文件可供公众访问。
 - 中文翻译仅为学习研究用途，不构成投资建议、法律建议或会计建议。
-
